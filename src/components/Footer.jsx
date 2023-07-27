@@ -1,6 +1,8 @@
 import React from "react";
 import img1 from "../assets/mypic.png";
-
+import {
+  AiOutlineArrowUp,
+} from "react-icons/ai";
 const Footer = () => {
   return (
     <footer>
