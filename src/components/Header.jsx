@@ -37,16 +37,13 @@ const NavContent = ({ setMenuOpen }) => (
         Experience
       </a>
       <a onClick={() => setMenuOpen(false)} href="#services">
-        Services
-      </a>
-      <a onClick={() => setMenuOpen(false)} href="#testimonial">
-        Testimonial
+        Skills
       </a>
       <a onClick={() => setMenuOpen(false)} href="#contact">
         Contact
       </a>
     </div>
-    <a href="mailto:official.6packprogrammer@gmail.com">
+    <a href="mailto:abhaybhardwaj9876@gmail.com">
       <button>Email</button>
     </a>
   </>
