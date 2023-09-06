@@ -1,23 +1,22 @@
 {
   "projects": [
     {
+      "title": "ECOMMERCE APP",
+      "description": "Welcome to a world of endless possibilities in the digital marketplace,where innovation meets convenience and shopping becomes unforgettable experience. ",
+      "url": "https://funny-plum-betta.cyclic.app/",
+      "imgSrc": "https://w7.pngwing.com/pngs/621/196/png-transparent-e-commerce-logo-logo-e-commerce-electronic-business-ecommerce-angle-text-service.png"
+    },
+    {
+      "title": "GOOGLE SEARCH CLONE",
+      "description": "This is a Google Search Clone made by using the Google API.",
+      "url": "https://google-search-clone-indol.vercel.app/",
+      "imgSrc": "https://as1.ftcdn.net/v2/jpg/03/88/07/84/1000_F_388078454_mKtbdXYF9cyQovCCTsjqI0gbfu7gCcSp.jpg"
+    },
+    {
       "title": "MOVIX",
       "description": "This Movix app is a movie hosting web app where the Movies are being fetched through TMDB(The Movie Database)'s API. ",
       "url": "https://vite-project-ymyi.vercel.app/",
       "imgSrc": "https://img.freepik.com/free-vector/cinema-realistic-poster-with-illuminated-bucket-popcorn-drink-3d-glasses-reel-tickets-blue-background-with-tapes-vector-illustration_1284-77070.jpg"
-    },
-
-    {
-      "title": "Youtube Clone",
-      "description": "This is a clone of Youtube using the RapidAPI.",
-      "url": "https://youtube-clone-liard-theta.vercel.app/",
-      "imgSrc": "https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "title": "Google Search Clone",
-      "description": "This is a Google Search Clone made by using the Google API.",
-      "url": "https://google-search-clone-indol.vercel.app/",
-      "imgSrc": "https://as1.ftcdn.net/v2/jpg/03/88/07/84/1000_F_388078454_mKtbdXYF9cyQovCCTsjqI0gbfu7gCcSp.jpg"
     },
     {
       "title": "PORTFOLIO",

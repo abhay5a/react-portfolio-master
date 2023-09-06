@@ -38,7 +38,7 @@ const Home = ({ ratio }) => {
 
           <Typewriter
             options={{
-              strings: ["A Front End Developer","A React Developer", "A Coding Enthusiast" ],
+              strings: ["A Full Stack Developer","A React Developer","A Node.js Developer", "A Coding Enthusiast" ],
               autoStart: true,
               loop: true,
               cursor: "",
@@ -60,7 +60,7 @@ const Home = ({ ratio }) => {
 
             <article data-special>
               <p>Contact</p>
-              <span style={{fontSize:"13px"}}>abhaybhardwaj9876@gmail.com</span>
+              <span style={{fontSize:"14px"}}>abhaybhardwaj9876@gmail.com</span>
             </article>
           </aside>
         </div>

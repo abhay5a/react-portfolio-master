@@ -61,7 +61,7 @@ const Services = () => {
           initial={animations.four}
         >
           <AiFillWindows />
-          <span>Desktop Development</span>
+          <span>Competitive Programming</span>
         </motion.div>
       </section>
     </div>
